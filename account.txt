@@ -1,0 +1,6 @@
+ADMIN
+tk: admin, mk: 123
+Nhân Viên
+tk:thai, mk:thai@123
+tk:binh, mk:binh@123
+tk:phuoc, mk:phuoc@123
